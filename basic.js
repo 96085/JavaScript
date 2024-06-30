@@ -84,3 +84,15 @@ example:-
         
         // Date object:
         const date = new Date("2022-03-25");
+********************************************************************************************************************************************************************
+                                                                Operators in Js
+ 
+ 1. Aerthmetic Operator (+, -, *, /, %, **)
+ 2. Unary Operator ((+1, ++) increment operator, (-1, --) decrement operator)
+ 3. Assingment Operator (=, +=, -=, *=, /=, %=, **=)
+ 4. Comparision Operator (==, ===, !=, !==, >, >=, <, <=)
+ 5. Logical Operator (logical and (&), logical or (||), logical not (!) )
+ 6.Ternary Operator (a?b:c) 
+ example - 
+ let age =25;
+ age>18?"adult":"not adult"
